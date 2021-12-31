@@ -7,5 +7,5 @@ Image based on the offical barcus/bareos-client image and integrates the vmware 
 # Build
 
 ```
-docker build -t bareo-client-vmware .
+docker build -t bareos-client-vmware .
 ```
